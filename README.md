@@ -17,3 +17,6 @@ The method can be applied in real world when forest management companies are pla
 ### Further Ideas
 The method can be improved with meteorological data and predictions. As the climate is changing and the forestry sector plans for decades and centuries, the change in environmental conditions is important from the model perspective.  
 In other words, where the conditions are perfect for a specific species now, the situation can be different in 30 years. Therefore if we could add predicted meterological data, it would be even better.
+
+### Link to Code on Kaggle:
+https://www.kaggle.com/blintpataki/forest-cover
